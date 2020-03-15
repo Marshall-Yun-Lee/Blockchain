@@ -1,0 +1,18 @@
+{
+  "name": "Blockchain",
+  "version": "1.0.0",
+  "description": "Typescript practice; Blockchain simulation; Tutorials: Nomad Coders@Youtube",
+  "main": "index.js",
+  "repository": "https://github.com/Marshall-Yun-Lee/Blockchain.git",
+  "author": "Marshall <yunseoklee440@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "./node_modules/.bin/tsc-watch --onSuccess \"node ./dist/index.js\""
+  },
+  "devDependencies": {
+    "tsc-watch": "^4.2.3"
+  },
+  "dependencies": {
+    "typescript": "^3.8.3"
+  }
+}

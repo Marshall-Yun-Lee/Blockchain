@@ -1,3 +1,5 @@
 # Blockchain
 
-Blockchain simulation with Typescript
+Typescript practice; Blockchain simulation
+
+Tutorials: Nomad Coders@Youtube
