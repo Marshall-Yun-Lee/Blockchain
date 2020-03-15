@@ -1,9 +1,10 @@
 # misc #
 ###################
-*.env
+.env
 dist
-*.yarn-integrity
+.yarn-integrity
 *.icloud
+.vscode
 
 # Compiled source #
 ###################
