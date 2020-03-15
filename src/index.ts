@@ -4,7 +4,7 @@ const name = "marshall",
 
 const greet = (name: string, age: number, gender?: string): void => {
     console.log("hello " + name + ", " + age + "years old! " + gender);
-    console.log("meh!");
+    console.log("meh!!");
 }
 
 greet(name, age, gender);
